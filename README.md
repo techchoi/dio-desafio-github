@@ -35,6 +35,9 @@ Repositório criado para o Desafio de Projeto.
 - ***git commit -m "primeiro commit"*** 
 - ***git branch -M "main"*** para laterar o nome da branch principal de ***master*** para ***main***
 
+## Veja mais informações de comandos do github de forma resumida
+[Resumão do GitHub](https://training.github.com/downloads/pt_PT/github-git-cheat-sheet.pdf)
+
 ## Veja como escrever no formato markdown
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
