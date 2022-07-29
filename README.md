@@ -18,7 +18,7 @@ Repositório criado para o Desafio de Projeto.
 - Os repositórios Git podem ser conectados, para que você possa trabalhar localmente em sua própria máquina e conectá-lo a um repositório compartilhado. Dessa forma você pode enviar e receber alterações de um repositório e colaborar facilmente com as outras pessoas.
 
 ## Instalando o Git
-[Download do git] (https://git-scm.com/downloads)
+[Download do git](https://git-scm.com/downloads)
 
 ## Criando um projeto novo
 
