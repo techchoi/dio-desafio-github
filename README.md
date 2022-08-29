@@ -1,9 +1,13 @@
 # Desafio de projeto sobre Git/Github da DIO
 Repositório criado para o Desafio de Projeto.
 
-## O que é o Git?
+## O que é o Git/ Github?
 
- Git é uma versão de software distribuido. Diferente da versão centralizada onde só é possível salvar as alterações ao longo do tempo sem poder sobescrever. Ser distribuído significa que todo desenvolvedor que trabalha com um repositório Git tem uma cópia desses repositório inteiro - cada **commit**, cada **branch**, cada arquivo. Se você está acostumado a trabalhar com sistemas de controle de versão centralizados, essa é uma grande diferença.
+ O Git é um repositório de controle de versão de arquivos, utilizado para controlar versões de códigos-fonte e desenvolvimento colaborativo.
+ 
+ O que e GitHub para que serve?
+ 
+O GitHub é o maior repositório de dados compartilhado do mundo, com 28 milhões de usuários atualmente. É uma plataforma majoritariamente usada por desenvolvedores, pois permite uma hospedagem prática de código-fonte e arquivos em nuvem. Diferente da versão centralizada onde só é possível salvar as alterações ao longo do tempo sem poder sobescrever. Ser distribuído significa que todo desenvolvedor que trabalha com um repositório Git tem uma cópia desses repositório inteiro - cada **commit**, cada **branch**, cada arquivo. Se você está acostumado a trabalhar com sistemas de controle de versão centralizados, essa é uma grande diferença.
 
 **[Commit]**
  Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git. São criados com o comando ***git commit*** para capturar o estado de um projeto naquele momento.
